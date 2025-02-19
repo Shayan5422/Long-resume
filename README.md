@@ -1,4 +1,4 @@
-```markdown
+
 # Long Resume Processor
 
 A Python application for processing and extracting text from resume documents.
